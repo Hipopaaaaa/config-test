@@ -1,4 +1,4 @@
 # dev环境的配置
 
 config:
-  info: "main分支，config-dey.yaml version=1"
+  info: "main branch，config-dey.yaml version=1"
